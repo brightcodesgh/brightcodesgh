@@ -2,7 +2,7 @@
 
 **`Full-stack Developer`**
 
-- 🔭 I’m currently working on an eBook System for the Students of GCTU 
+- 🔭 I’m currently working on an eBook System.
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

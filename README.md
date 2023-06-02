@@ -21,5 +21,5 @@
  
 <br />
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=brightcodesgh&mode=weekly)](https://git.io/streak-stats)
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=brightcodesgh)](https://git.io/streak-stats)

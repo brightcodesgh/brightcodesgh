@@ -1,5 +1,5 @@
 ### Hi there 👋
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`(Full-stack Developer/UI designer/ Mobile Application Developer)`**
 
 - 🔭 I’m currently working on an eBook System for the Students of GCTU 
 <!--

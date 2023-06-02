@@ -13,9 +13,9 @@
 -->
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.java.com/en/"><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
-<a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-<a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+<a href="https://www.java.com/en/"><img align="left" alt="Java" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
 <a href="https://www.w3schools.com/Css/"><img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>

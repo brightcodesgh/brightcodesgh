@@ -1,5 +1,5 @@
 ### Hi there 👋
-**`(Full-stack Developer/UI designer/ Mobile Application Developer)`**
+**`Full-stack Developer`**
 
 - 🔭 I’m currently working on an eBook System for the Students of GCTU 
 <!--

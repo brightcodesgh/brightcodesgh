@@ -25,7 +25,7 @@
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=brightcodesgh)](https://github.com/brghtcodesgh/github-profile-trophy).-->
  <!--<p align="left"> <a href="" alt="brightcodesgh" /></a> </p>--> 
 
-<p><img align="left" src="" alt="brightcodesgh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact" alt="brightcodesgh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightcodesgh&show_icons=true&locale=en" alt="brightcodesgh" /><p>
 

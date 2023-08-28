@@ -26,14 +26,15 @@
  <!--<p align="left"> <a href="" alt="brightcodesgh" /></a> </p>--> 
  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightcodesgh&layout=compact)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact" alt="brightcodesgh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightcodesgh&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=compact" alt="brightcodesgh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightcodesgh&show_icons=true&locale=en" alt="brightcodesgh" /><p>
 
+<!--https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=brightcodesgh&mode=weekly)](https://git.io/streak-stats)-->
 <!--"https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact
  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brightcodesgh)](https://git.io/streak-stats)

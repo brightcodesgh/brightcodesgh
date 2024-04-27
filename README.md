@@ -22,7 +22,7 @@
  
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brightcodesgh)](https://github.com/brghtcodesgh/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=brightcodesgh)](https://github.com/brghtcodesgh/github-profile-trophy)
  <!--<p align="left"> <a href="" alt="brightcodesgh" /></a> </p>--> 
  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightcodesgh&layout=compact)-->
 

@@ -29,7 +29,8 @@
 
 <!--!<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact" alt="brightcodesgh" /></p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightcodesgh&show_icons=true&locale=en" alt="brightcodesgh" /><p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightcodesgh&show_icons=true&locale=en" alt="brightcodesgh" /><p>-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightcodesgh&layout=pie)](https://github.com/brightcodesgh/github-readme-stats)
 
 <!--https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=brightcodesgh&mode=weekly)](https://git.io/streak-stats)-->

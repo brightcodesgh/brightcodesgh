@@ -26,7 +26,7 @@
  <!--<p align="left"> <a href="" alt="brightcodesgh" /></a> </p>--> 
  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightcodesgh&layout=compact)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact" alt="brightcodesgh" /></p>
+<<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact" alt="brightcodesgh" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightcodesgh&show_icons=true&locale=en" alt="brightcodesgh" /><p>
 

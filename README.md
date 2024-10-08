@@ -16,7 +16,9 @@ I'm currently working on Satcom web application<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brightcodesgh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-<!--[![](https://visitcount.itsvg.in/api?id=brightcodesgh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=brightcodesgh&label=Profile%20Views&color=12&icon=0&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -17,7 +17,7 @@ I'm currently working on Satcom web application<br>
 
 ---
 
-<a href="https://visitcount.itsvg.in/analytics/brightcodesgh">
+<!--<a href="https://visitcount.itsvg.in/analytics/brightcodesgh">
   <img src="https://visitcount.itsvg.in/api?id=brightcodesgh&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
 

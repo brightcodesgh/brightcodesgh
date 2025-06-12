@@ -10,7 +10,9 @@ I'm a passionate **Full-Stack Software Engineer** from **Ghana** 🇬🇭, focus
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=brightcodesgh&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightcodesgh&theme=codeSTACKr&layout=compact&count_private=true&langs_count=10&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=dark&no-frame=true&no-bg=true&margin-w=4)

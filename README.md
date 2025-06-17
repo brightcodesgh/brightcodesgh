@@ -26,7 +26,6 @@ I'm a passionate **Full-Stack Software Engineer** from **Ghana** 🇬🇭, focus
 ![](https://github-contributor-stats.vercel.app/api?username=brightcodesgh&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 ---
-![](https://komarev.com/ghpvc/?username=brightcodesgh&style=flat)
 ![Profile views](https://komarev.com/ghpvc/?username=brightcodesgh&label=Profile%20views&color=0e75b6&style=flat)
 
 

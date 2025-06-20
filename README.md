@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darkwa Bright</h1>
 
-  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=1B8014&vCenter=true&width=435&height=100&lines=%3A~%24+Ghanaian+Full-Stack+Engineer+%F0%9F%9A%80+;+Passionate+about+building+apps;one+commit+at+a+time.)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
@@ -14,7 +13,6 @@
 </a>
 
 </p>
-<br>
 
  <h3 align="left"> Languages and Tools:</h3>
  <hr>
@@ -22,25 +20,25 @@
 <p align="left">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
+  </a>&nbsp;
+  
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=WZmdy8iimo15&format=png&color=12B886" alt="bash" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
 
 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=84710&format=png&color=6f42c1" alt="bootstrap" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
 
 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -48,116 +46,119 @@
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FAB005" alt="express" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 
   <a href="https://figma.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <br/>
+  </a>&nbsp;
+ 
 
   <!-- GitHub -->
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=EBEBEB" alt="github" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=VdbUaq1ZLjT2&format=png&color=228BE6" alt="react" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- React Native -->
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=35989&format=png&color=228BE6" alt="react native" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=228BE6" alt="typescript" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript" width="40" height="40"/>
+</a>&nbsp;
 
 <!-- Java -->
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=F89820" alt="java" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- SCSS -->
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=H997wGMPVphe&format=png&color=F25081" alt="scss" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=F7DF1E" alt="javascript" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- Node.js -->
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=339933" alt="nodejs" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- PowerShell -->
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=59499&format=png&color=EBEBEB" alt="powershell" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- Postman -->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=KIcFwp9MNQL5&format=png&color=FD7E14" alt="postman" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- NPM -->
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=UF4YeVVLGLlp&format=png&color=FA5252" alt="npm" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<br>
+</a>&nbsp;
 
 <!-- Vercel -->
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" alt="vercel" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- Netlify -->
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=hzW60PyegkOf&format=png&color=12B886" alt="netlify" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- Cloudflare -->
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=12594&format=png&color=FD7E14" alt="cloudflare" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- Nodemon -->
 <a href="https://www.npmjs.com/package/nodemon" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=u1nIJGkmHSRQ&format=png&color=000000" alt="nodemon" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- Tailwind CSS -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=38BDF8" alt="tailwind" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" width="40" height="40"/>
+</a>&nbsp;
 
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=47A248" alt="mongodb" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=4479A1" alt="mysql" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
+
+<a href="https://vite.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" alt="vite" width="40" height="40"/>
+</a>&nbsp;
 
 </p>
 

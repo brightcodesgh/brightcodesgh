@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darkwa Bright</h1>
 
-<p align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=1C8515&center=true&multiline=true&repeat=false&width=435&height=100&lines=%3E+Ghanaian+Full-Stack+Engineer+%F0%9F%9A%80+;%3E+Passionate+about+building+apps;%3E+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=26B31C&vCenter=true&width=435&height=100&lines=%3A~%24+Ghanaian+Full-Stack+Engineer+%F0%9F%9A%80+;+Passionate+about+building+apps;one+commit+at+a+time.)](https://git.io/typing-svg)
 
-</p>
-
-
-<br>
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
@@ -72,7 +67,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <br/><br/>
+  <br/>
 
   <!-- GitHub -->
 <a href="https://github.com/" target="_blank" rel="noreferrer">

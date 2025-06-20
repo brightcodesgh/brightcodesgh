@@ -186,7 +186,7 @@
 <br>
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=brightcodesgh&label=Profile%20views&color=0e75b6&style=flat)
+![visitors](https://komarev.com/ghpvc/?username=brightcodesgh&label=Profile%20views&color=0e75b6&style=flat)
 
 
 

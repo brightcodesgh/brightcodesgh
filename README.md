@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darkwa Bright</h1>
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=26B31C&vCenter=true&width=435&height=100&lines=%3A~%24+Ghanaian+Full-Stack+Engineer+%F0%9F%9A%80+;+Passionate+about+building+apps;one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=1B8014&vCenter=true&width=435&height=100&lines=%3A~%24+Ghanaian+Full-Stack+Engineer+%F0%9F%9A%80+;+Passionate+about+building+apps;one+commit+at+a+time.)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <hr>

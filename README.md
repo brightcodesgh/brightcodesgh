@@ -162,7 +162,6 @@
 
 </p>
 
-<br>
 
 <h3>📈 GitHub Stats: <h3/>
   <hr>

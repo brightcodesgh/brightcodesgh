@@ -13,7 +13,6 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" height="40"/>
 </a>
 
-
 </p>
 <br>
 

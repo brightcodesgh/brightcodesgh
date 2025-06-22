@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
-<a href="https://twitter.com/darkwadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darkwadev" height="30" width="40" /></a>
+<a href="https://x.com/darkwadev" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=de4vjQ6J061l&format=png&color=FFFFFF" alt="darkwadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bright-darkwa-93774626a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bright-darkwa-93774626a" height="30" width="40" /></a>
 <a href="https://instagram.com/darkwadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darkwadev" height="30" width="40" /></a>
 <a href="mailto:darkwadev@gmail.com" target="_blank">

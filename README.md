@@ -1,4 +1,4 @@
-<h2 align="center">Hi visitor👋 welcome to my profile, I'm Darkwa Bright</h2>
+<h1 align="center">Hi visitor👋 welcome to my profile, <br/>I'm Darkwa Bright</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=10&color=C88E19&center=true&vCenter=true&width=435&height=100&lines=A++full-stack+engineer+;from+Ghana;Engineering+application;One+Commit+at+a+time)](https://git.io/typing-svg)
 

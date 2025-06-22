@@ -165,17 +165,15 @@
 
 <h3>📈 GitHub Stats: <h3/>
   <hr>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&show_icons=true" alt="GitHub Stats" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" /><br/>
  
   <img src="https://nirzak-streak-stats.vercel.app/?user=brightcodesgh&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" width="48%" />
 
   <br/>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&langs_count=10&layout=compact&theme=codeSTACKr&count_private=true&hide_border=true&cache_seconds=3600&v=1" alt="Top Languages" />
-
-
-
 
 
 ### 🏆 GitHub Trophies
@@ -190,4 +188,4 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

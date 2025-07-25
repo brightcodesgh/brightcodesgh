@@ -32,7 +32,7 @@
 
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://mysoftkey.com/wp-content/uploads/2016/04/redis_logo.png" alt="redis" width="40" height="40"/>
-  </a>&nbs
+  </a>&nbsp;
 
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">

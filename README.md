@@ -12,6 +12,7 @@
   <a href="mailto:darkwadev@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" height="40"/></a>
 </p>
 
+
  <h3 align="left"> Languages and Tools:</h3>
  <hr>
 <p align="left">
@@ -23,6 +24,16 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>&nbsp;
+
+  <a href="https://typeorm.io" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm" width="40" height="40"/>
+  </a>&nbsp;
+
+
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://mysoftkey.com/wp-content/uploads/2016/04/redis_logo.png" alt="redis" width="40" height="40"/>
+  </a>&nbs
+
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=WZmdy8iimo15&format=png&color=12B886" alt="bash" width="40" height="40"/>

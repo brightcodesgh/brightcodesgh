@@ -141,16 +141,37 @@
 
 <h3>📈 GitHub Stats: <h3/>
   <hr>
-  <img src="https://github-readme-stats.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&show_icons=true&v=2" />
+  <img 
+    src="https://my-readme-flax.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&show_icons=true&v=2" 
+    alt="GitHub Stats" 
+  />
+
+<!-- Streaks -->
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=brightcodesgh&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" width="48%" />
+
+
+
+  <br/>
   <br/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&langs_count=10&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=1800&v=2"  alt="Top Languages"/>
+<div style="padding: 20px; display: inline-block;">
+  <img 
+    src="https://my-readme-flax.vercel.app/api/top-langs?username=brightcodesgh&langs_count=20&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=1800&v=2" 
+    alt="Top Languages"
+    style="display: block;" 
+  />
+</div>
+
+
+ 
+
+ 
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)

@@ -170,7 +170,7 @@
  
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 
 ### ✍️ Random Dev Quote

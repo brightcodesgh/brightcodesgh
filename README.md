@@ -173,6 +173,12 @@
     alt="Top Languages"
     style="display: block;" 
   />
+  <!-- <img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&langs_count=20&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=1800&v=2"
+  alt="Top Languages"
+  style="display: block;"
+/> -->
+
 </div>
 
 

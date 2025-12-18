@@ -152,10 +152,10 @@
 
 <h3>📈 GitHub Stats: </h3>
   <hr>
-  <img 
-    src="https://my-readme-flax.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&show_icons=true&v=2" 
-    alt="GitHub Stats" 
-  />
+ <img 
+  src="https://my-readme-flax.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&show_icons=true"
+  alt="GitHub Stats"
+/>
 
 <!-- Streaks -->
   <br/>
@@ -187,10 +187,7 @@
  
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=flat&no-frame=true" />
 
 
 

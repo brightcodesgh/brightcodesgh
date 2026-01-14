@@ -169,7 +169,7 @@
   <!-- Top Languages -->
 <div style="padding: 20px; display: inline-block;">
   <img 
-    src="https://my-readme-flax.vercel.app/api/top-langs?username=brightcodesgh&langs_count=20&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=1800&v=2" 
+    src="https://my-readme-flax.vercel.app/api/top-langs?username=brightcodesgh&langs_count=20&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=43200&v=2" 
     alt="Top Languages"
     style="display: block;" 
   />
@@ -182,12 +182,13 @@
 </div>
 
 
- 
 
+ 
  
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=flat&no-frame=true" />
+
 
 
 

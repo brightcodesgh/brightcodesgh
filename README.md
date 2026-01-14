@@ -153,7 +153,7 @@
 <h3>📈 GitHub Stats: </h3>
   <hr>
  <img 
-  src="https://my-readme-flax.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&show_icons=true"
+  src="http://github-readme-stats-one-steel-20.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&show_icons=true"
   alt="GitHub Stats"
 />
 
@@ -166,10 +166,10 @@
   <br/>
   <br/>
   
-  <!-- Top Languages -->
+  <!-- Top Languages 
 <div style="padding: 20px; display: inline-block;">
   <img 
-    src="https://my-readme-flax.vercel.app/api/top-langs?username=brightcodesgh&langs_count=20&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=43200&v=2" 
+    src="https://github-readme-stats-one-steel-20.vercel.app/api/top-langs?username=brightcodesgh&langs_count=20&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=43200&v=2" 
     alt="Top Languages"
     style="display: block;" 
   />
@@ -181,13 +181,19 @@
 
 </div>
 
+### Top Languages
+
+![Top Languages](https://github-readme-stats-one-steel-20.vercel.app/api/top-langs?username=brightcodesgh&langs_count=20&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=43200)
+
 
 
  
  
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=flat&no-frame=true" />
+<!--<img src="https://github-readme-stats-one-steel-20.vercel.ap/?username=brightcodesgh&theme=flat&no-frame=true" />-->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=flat&no-frame=true)
+
 
 
 

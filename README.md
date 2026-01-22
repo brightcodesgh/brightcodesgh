@@ -4,7 +4,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <hr>
-<!--Socials-->
 <p align="left">
   <a href="https://x.com/darkwadev" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=de4vjQ6J061l&format=png&color=FFFFFF" alt="darkwadev" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/darkwab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bright-darkwa-93774626a" height="30" width="40" /></a>
@@ -16,7 +15,6 @@
  <h3 align="left"> Languages and Tools:</h3>
  <hr>
 <p align="left">
-    <!-- Appwrite -->
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
   </a>&nbsp;
@@ -150,21 +148,17 @@
 </p>
 
 
-<h3>📈 GitHub Stats: </h3>
+<!--<h3>📈 GitHub Stats: </h3>-->
   <hr>
- <img 
+
+<!--<img 
   src="http://github-readme-stats-one-steel-20.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&show_icons=true"
   alt="GitHub Stats"
-/>
+/>-->
 
-<!-- Streaks -->
-  <br/>
+  ### Streak
   <img src="https://nirzak-streak-stats.vercel.app/?user=brightcodesgh&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" width="48%" />
 
-
-
-  <br/>
-  <br/>
   
   <!-- Top Languages 
 <div style="padding: 20px; display: inline-block;">
@@ -183,21 +177,13 @@
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats-one-steel-20.vercel.app/api/top-langs?username=brightcodesgh&langs_count=20&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=43200)
-
-
-
- 
- 
+<p align="left">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 🏆 GitHub Trophies
 <!--<img src="https://github-readme-stats-one-steel-20.vercel.ap/?username=brightcodesgh&theme=flat&no-frame=true" />-->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=flat&no-frame=true)
-
-
-
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)

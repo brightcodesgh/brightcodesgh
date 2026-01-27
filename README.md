@@ -145,6 +145,11 @@
 <a href="https://vite.dev/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" alt="vite" width="40" height="40"/>
 </a>&nbsp;
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/>
+</a>&nbsp;
+
 </p>
 
 

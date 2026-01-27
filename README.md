@@ -159,7 +159,6 @@
   ### Streak
   <img src="https://nirzak-streak-stats.vercel.app/?user=brightcodesgh&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" width="48%" />
 
-  
   <!-- Top Languages 
 <div style="padding: 20px; display: inline-block;">
   <img 
@@ -172,13 +171,13 @@
   alt="Top Languages"
   style="display: block;"
 /> -->
-
 </div>
 
 ### Top Languages
 
 <p align="left">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=true" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=truecache_seconds=1800" alt="Top Languages" /> 
+ 
 </p>
 
 ### 🏆 GitHub Trophies

@@ -176,7 +176,7 @@
 ### Top Languages
 
 <p align="left">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=truecache_seconds=1800" alt="Top Languages" /> 
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=truecache_seconds=1800&langs_count=8" alt="Top Languages" /> 
  
 </p>
 

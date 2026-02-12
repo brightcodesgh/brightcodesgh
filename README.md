@@ -162,7 +162,7 @@
 />-->
 
   ### Streak
-  <img src="https://nirzak-streak-stats.vercel.app/?user=brightcodesgh&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" width="48%" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightcodesgh&theme=codeSTACKr&hide_border=true" alt="bright" /></p>
   
 
   <!-- Top Languages 
@@ -188,6 +188,7 @@
 
 ### 🏆 GitHub Trophies
 <!--<img src="https://github-readme-stats-one-steel-20.vercel.ap/?username=brightcodesgh&theme=flat&no-frame=true" />-->
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=flat&no-frame=true)
 
 ### ✍️ Random Dev Quote

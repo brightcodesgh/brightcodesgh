@@ -162,8 +162,7 @@
 />-->
 
   ### Streak
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightcodesgh&theme=codeSTACKr&hide_border=true" alt="bright" /></p>
-  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brightcodesgh&theme=codestackr&hide_border=true)](https://git.io/streak-stats) 
 
   <!-- Top Languages 
 <div style="padding: 20px; display: inline-block;">

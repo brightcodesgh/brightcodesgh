@@ -161,8 +161,12 @@
   alt="GitHub Stats"
 />-->
 
+
+
   ### Streak
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brightcodesgh&theme=codestackr&hide_border=true)](https://git.io/streak-stats) 
+![](https://github-readme-stats.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=brightcodesgh&theme=codeSTACKr&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   <!-- Top Languages 
 <div style="padding: 20px; display: inline-block;">
@@ -177,6 +181,11 @@
   style="display: block;"
 /> -->
 </div>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=brightcodesgh&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+
 
 ### Top Languages
 
@@ -196,7 +205,6 @@
 
 ---
 ![visitors](https://komarev.com/ghpvc/?username=brightcodesgh&label=Profile%20views&color=0e75b6&style=flat)
-
 
 
 

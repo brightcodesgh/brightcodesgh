@@ -162,37 +162,20 @@
 />-->
 
 
+### Stats
+![](https://github-readme-stats.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
 
-  ### Streak
-![](https://github-readme-stats.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
+### Streak
 ![](https://nirzak-streak-stats.vercel.app/?user=brightcodesgh&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-  <!-- Top Languages 
-<div style="padding: 20px; display: inline-block;">
-  <img 
-    src="https://github-readme-stats-one-steel-20.vercel.app/api/top-langs?username=brightcodesgh&langs_count=20&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=43200&v=2" 
-    alt="Top Languages"
-    style="display: block;" 
-  />
-  <!-- <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&langs_count=20&layout=compact&theme=codeSTACKr&hide_border=true&cache_seconds=1800&v=2"
-  alt="Top Languages"
-  style="display: block;"
-/> -->
-</div>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brightcodesgh&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
-
 
 ### Top Languages
-
 <p align="left">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=truecache_seconds=1800&langs_count=10" alt="Top Languages" /> 
- 
+  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=truecache_seconds=1800&langs_count=10" alt="Top Languages" /> 
 </p>
+
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=brightcodesgh&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+-->
 
 ### 🏆 GitHub Trophies
 <!--<img src="https://github-readme-stats-one-steel-20.vercel.ap/?username=brightcodesgh&theme=flat&no-frame=true" />-->

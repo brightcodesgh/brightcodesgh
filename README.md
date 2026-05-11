@@ -163,17 +163,10 @@
 </div>
 
 
-<!--<h3>📈 GitHub Stats: </h3>-->
-  <hr>
-
-<!--<img 
-  src="http://github-readme-stats-one-steel-20.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&show_icons=true"
-  alt="GitHub Stats"
-/>-->
-
-
 ### Stats
-![](https://github-readme-stats.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
+<p align="left">
+  <img width="500" src="https://github-readme-stats.shion.dev/api?username=brightcodesgh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private="/>
+</p>
 
 ### Streak
 
@@ -182,19 +175,17 @@
 
 ### Top Languages
 <p align="left">
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=truecache_seconds=1800&langs_count=10" alt="Top Languages" /> 
+  <img width="360" src="https://github-readme-stats.shion.dev/api/top-langs?username=brightcodesgh&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=truecache_seconds=1800&langs_count=10" alt="Top Languages" /> 
 </p>
 
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brightcodesgh&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
--->
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 <!--<img src="https://github-readme-stats-one-steel-20.vercel.ap/?username=brightcodesgh&theme=flat&no-frame=true" />-->
+![](https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=flat&no-frame=true)
+<!--![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brightcodesgh&theme=flat&no-frame=true)-->
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 <br>
 

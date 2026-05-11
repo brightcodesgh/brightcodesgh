@@ -176,7 +176,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=brightcodesgh&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
 
 ### Streak
-![](https://nirzak-streak-stats.vercel.app/?user=brightcodesgh&theme=codeSTACKr&hide_border=true)<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightcodesgh&theme=codeSTACKr&hide_border=true" alt="brightcodesgh" /></p>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=brightcodesgh&theme=codeSTACKr&hide_border=true)<br/> -->
 
 ### Top Languages
 <p align="left">
